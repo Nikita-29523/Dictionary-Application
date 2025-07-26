@@ -1,18 +1,29 @@
-🌟 Overview
-This is a simple dictionary web application built using HTML, CSS, and JavaScript. It allows users to search for word meanings, pronunciations, and usage examples.
+# 📘 Dictionary Web Application
 
-🚀 Features
-✔️ Search for word meanings
-✔️ Shows pronunciation and phonetics
-✔️ Provides example sentences
-✔️ Responsive design for mobile and desktop
-✔️ API-based word search
+![App Screenshot](Screenshots.png)
 
-🛠 Tech Stack
-HTML – Structure
+---
 
-CSS – Styling
+### 🌟 Overview  
+This is a simple dictionary web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to search for word meanings, pronunciations, and usage examples.
 
-JavaScript – Functionality
+---
 
-API – (e.g., Free Dictionary API)
+### 🚀 Features  
+✔️ Search for word meanings  
+✔️ Shows pronunciation and phonetics  
+✔️ Provides example sentences  
+✔️ Audio pronunciation  
+✔️ Responsive design for mobile and desktop  
+✔️ API-based word search (e.g., [Free Dictionary API](https://dictionaryapi.dev/))
+
+---
+
+### 🛠 Tech Stack  
+- **HTML** – Structure  
+- **CSS** – Styling  
+- **JavaScript** – Functionality  
+- **API** – Word data (Free Dictionary API)
+
+---
+
